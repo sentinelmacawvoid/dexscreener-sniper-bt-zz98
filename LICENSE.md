@@ -1,4 +1,4 @@
-# 
+# instant MEV arbitrage bot scripts is the best MEV arbitrage bot scripts with stop-loss and new-token-detection. Safe, reliable, and optimized for MEV, sniper, and arbitrage
 
 
 
